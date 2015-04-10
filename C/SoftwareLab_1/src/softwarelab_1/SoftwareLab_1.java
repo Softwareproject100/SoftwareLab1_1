@@ -18,7 +18,7 @@ public class SoftwareLab_1 {
     public static void main(String[] args) {
         System.out.println("Hello!");
         //prints hello!
-        System.out.println("it works");
+        System.out.println("it works!!!");
     }
     
 }
