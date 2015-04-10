@@ -10,7 +10,6 @@ package softwarelab_1;
  * @author Johan Håkansson
  */
 public class SoftwareLab_1 {
-    static String name;
 
     /**
      * @param args the command line arguments
