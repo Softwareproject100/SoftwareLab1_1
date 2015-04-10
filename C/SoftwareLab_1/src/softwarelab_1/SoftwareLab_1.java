@@ -15,9 +15,9 @@ public class SoftwareLab_1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("Hello!");
+        System.out.println("Hello!");
         //prints hello!
-        System.out.print("it works");
+        System.out.println("it works");
     }
     
 }
