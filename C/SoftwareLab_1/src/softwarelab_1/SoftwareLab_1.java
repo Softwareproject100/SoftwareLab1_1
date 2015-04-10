@@ -18,7 +18,12 @@ public class SoftwareLab_1 {
     public static void main(String[] args) {
         System.out.println("Hello!");
         //prints hello!
+<<<<<<< HEAD
         System.out.println("it works!!! Jippi!!");
+=======
+        System.out.println("it works!!! Jippi");
+        System.out.println("holy crap it works....sometimes");
+>>>>>>> origin/master
     }
     
 }
