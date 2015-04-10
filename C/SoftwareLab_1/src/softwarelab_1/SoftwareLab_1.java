@@ -19,8 +19,6 @@ public class SoftwareLab_1 {
         System.out.println("Hello!");
         //prints hello!
         System.out.println("it works!!! Jippi");
-    
-    System.out.println("we are champions");
     }
     
 }
