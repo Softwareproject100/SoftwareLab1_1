@@ -23,6 +23,7 @@ public class SoftwareLab_1 {
 
         System.out.println("it works!!! Jippi");
         System.out.println("holy crap it works....sometimes");
+        System.out.println("helalal");
 
     }
     
